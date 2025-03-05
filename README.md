@@ -22,7 +22,7 @@ E sempre explorando novas tecnologias! ✨
 
 ## 📌 Primeiros Exercícios!
 
-🔹 [**Exercícios Básicos Java**](https://github.com/seu-usuario/meusprimeirosjavas) - Exercícios simples desenvolvidos durante o curso "Programação Básica em Java" do IFRS
+🔹 [**Exercícios Básicos Java**](https://github.com/MarianaVarandas/meusprimeirosjavas) - Exercícios simples desenvolvidos durante o curso "Programação Básica em Java" do IFRS
 
 ---
 
