@@ -20,7 +20,9 @@ E sempre explorando novas tecnologias! ✨
 
 ---
 
-## 📌 Em breve colocarei aqui meus primeiros projetos! 
+## 📌 Primeiros Exercícios!
+
+🔹 [**Exercícios Básicos Java**](https://github.com/seu-usuario/meusprimeirosjavas) - Exercícios simples desenvolvidos durante o curso "Programação Básica em Java" do IFRS
 
 ---
 
