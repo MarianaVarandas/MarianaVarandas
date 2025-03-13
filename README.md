@@ -3,11 +3,11 @@
 🚀 Estudante de **Análise e Desenvolvimento de Sistemas** | 🎯 Em transição de carreira de **Música** para **Desenvolvimento de Software**  
 
 ## 👩‍💻 Sobre mim  
-Sou uma desenvolvedora em formação, reiniciando uma caminho profissional aos 31 anos e me encantando a cada passo. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** com previsão de conclusão em **julho de 2027**. Recentemente conclui um curso em **Lógica de Programação** com uso da ferramenta Portugol para estudo e nesse momento estou cursando **JAVA** no IFRS. Tenho um grande interesse por **sustentabilidade, acessibilidade digital e boas práticas de desenvolvimento**. 
+Sou uma desenvolvedora em formação, reiniciando uma caminho profissional aos 31 anos e me encantando a cada passo. Atualmente, curso **Análise e Desenvolvimento de Sistemas** com previsão de conclusão em **julho de 2027**. Recentemente conclui os cursos **Lógica de Programação** com uso da ferramenta Portugol para estudo e também **Programação Básica com JAVA - I**, ambos no IFRS. Nesse momento estou cursando **Programação Básica com JAVA II**, também no IFRS. Tenho um grande interesse por **sustentabilidade, acessibilidade e inclusão por meio da tecnologia**. 
 
-Como **autista, superdotada e autodidata**, aprendo rapidamente e gosto de explorar novas tecnologias e desafios. Meu objetivo é criar soluções eficientes e relevantes. Sou apaixonada pela inclusão através da tecnologia e pela potência dessa área para pessoas como eu. Busco sempre deixar uma marca positiva por onde passo e acredito que a coletividade e a diversidade são as chaves que mudarão o mundo.   
+Como **autista, superdotada e autodidata**, aprendo rapidamente e gosto de explorar novos desafios. Meu objetivo é contribuir para a criação de soluções que estimulem autonomia, desenvolvimento e bem-estar da população. Sou apaixonada pela inclusão através da tecnologia e pela potência dessa área para pessoas como eu. Busco sempre deixar uma marca positiva por onde passo e acredito que a coletividade e a diversidade são as chaves que mudarão o mundo.   
 
-📍 Atualmente, estou em busca de oportunidades como **Estagiária ou Desenvolvedora Júnior**.  
+📍 Estou em busca de oportunidades como **Estagiária ou Desenvolvedora Júnior**.  
 
 ---
 
@@ -16,7 +16,7 @@ Como **autista, superdotada e autodidata**, aprendo rapidamente e gosto de explo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Portugol](https://img.shields.io/badge/Portugol-008F5D?style=for-the-badge&logoColor=white) 
 
-E sempre explorando novas tecnologias! ✨  
+E sempre buscando aprender mais! ✨  
 
 ---
 
