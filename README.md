@@ -13,8 +13,8 @@ Como **autista, superdotada e autodidata**, aprendo rapidamente e gosto de explo
 
 ## 🛠️ Tecnologias & Ferramentas  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Portugol](https://img.shields.io/badge/Portugol-008F5D?style=for-the-badge&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Portugol](https://img.shields.io/badge/Portugol-008F5D?style=for-the-badge&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 Atualizando a cada dia! 👊  
