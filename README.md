@@ -15,14 +15,17 @@ Como **autista, superdotada e autodidata**, aprendo rapidamente e gosto de explo
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Portugol](https://img.shields.io/badge/Portugol-008F5D?style=for-the-badge&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-E sempre buscando aprender mais! ✨  
+Atualizando a cada dia! 👊  
 
 ---
 
 ## 📌 Primeiros Exercícios!
 
-🔹 [**Exercícios Básicos Java**](https://github.com/MarianaVarandas/meusprimeirosjavas) - Exercícios simples desenvolvidos durante o curso "Programação Básica em Java" do IFRS
+🔹 [**Exercícios Básicos Java**](https://github.com/MarianaVarandas/JAVA) - Exercícios simples desenvolvidos durante o curso "Programação Básica em Java" do IFRS
+🔹 [**Exercícios Básicos Java**](https://github.com/MarianaVarandas/WEB) - Exercícios desenvolvidos na disciplina "Fundamentos do Desenvolvimento de Software"
+
 
 ---
 
