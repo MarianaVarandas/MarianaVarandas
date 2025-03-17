@@ -24,6 +24,7 @@ Atualizando a cada dia! 👊
 ## 📌 Primeiros Exercícios!
 
 🔹 [**Exercícios Básicos Java**](https://github.com/MarianaVarandas/JAVA) - Exercícios simples desenvolvidos durante o curso "Programação Básica em Java" do IFRS
+
 🔹 [**Exercícios Básicos Java**](https://github.com/MarianaVarandas/WEB) - Exercícios desenvolvidos na disciplina "Fundamentos do Desenvolvimento de Software"
 
 
