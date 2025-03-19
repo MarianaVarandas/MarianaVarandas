@@ -3,11 +3,11 @@
 🚀 Estudante de **Análise e Desenvolvimento de Sistemas** | 🎯 Em transição de carreira de **Música** para **Desenvolvimento de Software**  
 
 ## 👩‍💻 Sobre mim  
-Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 31 anos e me encantando a cada passo. Atualmente, curso **Análise e Desenvolvimento de Sistemas** com previsão de conclusão em **julho de 2027**. Recentemente conclui os cursos **Lógica de Programação** com uso da ferramenta Portugol para estudo e também **Programação Básica com JAVA - I**, ambos no IFRS. Nesse momento estou cursando **Programação Básica com JAVA II**, também no IFRS. Tenho um grande interesse por **sustentabilidade, acessibilidade e inclusão por meio da tecnologia**. 
+Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 31 anos e me encantando a cada passo. Atualmente, curso **Análise e Desenvolvimento de Sistemas** com previsão de conclusão em **julho de 2027**. Além do estudo formal de graduação, tenho me aprofundado no desenvolvimento backend e conclui, recentemente, os cursos **Lógica de Programação** com uso da ferramenta Portugol para estudo de algoritmos e também **Programação Básica com JAVA - I**, ambos no IFRS.
 
-Como **autista, superdotada e autodidata**, aprendo rapidamente e gosto de explorar novos desafios. Meu objetivo é contribuir para a criação de soluções que estimulem autonomia, desenvolvimento e bem-estar da população. Sou apaixonada pela inclusão através da tecnologia e pela potência dessa área para pessoas como eu. Busco sempre deixar uma marca positiva por onde passo e acredito que a coletividade e a diversidade são as chaves que mudarão o mundo.   
+Como **autista, superdotada e autodidata**, aprendo rapidamente e gosto de explorar novos desafios. Meu objetivo é contribuir para a criação de soluções que estimulem autonomia, bem-estar e que permitam um manejo saudável do tempo e da energia de pessoas e empresas. Sou uma entusiasta da inclusão através da tecnologia e acredito na potência dessa área para pessoas como eu. Busco sempre deixar uma marca positiva por onde passo e acredito que a comunicação assertiva é uma chave poderosa na resolução de conflitos.  
 
-📍 Estou em busca de oportunidades como **Estagiária ou Desenvolvedora Júnior**.  
+📍 Estou à procura de oportunidades como **Estagiária ou Desenvolvedora Júnior**.  
 
 ---
 
