@@ -17,8 +17,6 @@ Como **autista, superdotada e autodidata**, aprendo rapidamente e gosto de explo
 ![Portugol](https://img.shields.io/badge/Portugol-008F5D?style=for-the-badge&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Atualizando a cada dia! 👊  
-
 ---
 
 ## 📌 Primeiros Exercícios!
@@ -37,3 +35,4 @@ Atualizando a cada dia! 👊
 ---
 
 📌 *Sempre aberta para colaborações e novas conexões!* 🚀  
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mariorez&repo=mariorez&countColorcountColor)
