@@ -35,4 +35,5 @@ Como **autista, superdotada e autodidata**, aprendo rapidamente e gosto de explo
 ---
 
 📌 *Sempre aberta para colaborações e novas conexões!* 🚀  
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mariorez&repo=mariorez&countColorcountColor)
+![] (http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MarianaVarandas&repo=MarianaVarandas&countColor=orange&labelColor=green
+))
