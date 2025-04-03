@@ -21,11 +21,10 @@ Como **autista, superdotada e autodidata**, aprendo rapidamente e gosto de explo
 
 ## 📌 Primeiros Exercícios!
 
-🔹 [**Exercícios Básicos Java**](https://github.com/MarianaVarandas/JAVA) - Exercícios simples desenvolvidos durante o curso "Programação Básica em Java" do IFRS - mar/2025
+🔹 [**Acompanhe meu desenvolvimento**](https://github.com/MarianaVarandas/Portfolio_Exercicios) 
+Todos os dias estudo e amplio meu conhecimento em programação e computaçao no geral. 
+Costumo atulizar o meu repositório de exercícios diariamente e te convido a acompanhar meu crescimento :)
 
-🔹 [**Exercícios Básicos WEB - HTML5**](https://github.com/MarianaVarandas/WEB) - Exercícios desenvolvidos na disciplina "Fundamentos do Desenvolvimento de Software" - mar/2025
-
----
 
 ## 📫 Contato  
 
