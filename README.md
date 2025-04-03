@@ -23,7 +23,7 @@ Como **autista, superdotada e autodidata**, aprendo rapidamente e gosto de explo
 
 🔹 [**Acompanhe meu desenvolvimento**](https://github.com/MarianaVarandas/Portfolio_Exercicios) 
 Todos os dias estudo e amplio meu conhecimento em programação e computaçao no geral. 
-Costumo atulizar o meu repositório de exercícios diariamente e te convido a acompanhar meu crescimento :)
+Costumo atualizar o meu repositório de exercícios diariamente e te convido a acompanhar meu crescimento :)
 
 
 ## 📫 Contato  
