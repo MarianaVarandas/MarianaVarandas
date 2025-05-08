@@ -7,8 +7,6 @@ Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 31
 
 Como autista, superdotada e autodidata, aprendo rapidamente e tendo a ser muito disciplinada e dedicada nas tarefas às quais me proponho. Meu objetivo na tecnologia é contribuir para a criação de soluções que estimulem autonomia, bem-estar e que permitam um manejo saudável do tempo e da energia de pessoas e organizações. 
 
-Estou à procura de oportunidades como Estagiária em Desenvolvimento ou Análise de Dados.
-
 📍 Estou à procura de oportunidades como **Estagiária em Desenvolvimento ou Análise de Dados**.  
 
 ---
