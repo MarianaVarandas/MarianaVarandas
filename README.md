@@ -3,7 +3,7 @@
 🚀 Estudante de **Análise e Desenvolvimento de Sistemas** | 🎯 Em transição de carreira de **Música** para **Desenvolvimento de Software**  
 
 ## 👩‍💻 Sobre mim  
-Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 31 anos e me encantando a cada passo. Atualmente, curso Análise e Desenvolvimento de Sistemas com previsão de conclusão em julho de 2027. Além do estudo formal de graduação, tenho focado meus estudos paralelos em desenvolvimento backend e análise de dados, já tendo alguma familiaridade em nível iniciante com linguagens Java e Python, além de versionamento (Git SCM | Github) e Linux (Ubuntu). 
+Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 31 anos e me encantando a cada passo. Atualmente, curso Análise e Desenvolvimento de Sistemas com previsão de conclusão em julho de 2027. Além do estudo formal de graduação, tenho focado meus estudos paralelos em desenvolvimento backend e análise de dados, já tendo alguma familiaridade em nível iniciante com linguagens Java e Python, além de versionamento (Git SCM | Github), MySQL e Linux (Ubuntu). 
 
 Como autista, superdotada e autodidata, aprendo rapidamente e tendo a ser muito disciplinada e dedicada nas tarefas às quais me proponho. Meu objetivo na tecnologia é contribuir para a criação de soluções que estimulem autonomia, bem-estar e que permitam um manejo saudável do tempo e da energia de pessoas e organizações. 
 
@@ -21,10 +21,16 @@ Como autista, superdotada e autodidata, aprendo rapidamente e tendo a ser muito 
 
 ---
 
-## 📌 Primeiros Exercícios!
+## 📌 Portfolio
 
-🔹 [**Acompanhe meu desenvolvimento**](https://github.com/MarianaVarandas/Portfolio_Exercicios) 
-Todos os dias estudo e amplio meu conhecimento em programação e computaçao no geral. 
+🔹 [**Desenvolvimento WEB**](https://github.com/MarianaVarandas/ProjetoWeb_SitePessoal) 
+Projeto acadêmico de construção de site com menu, links e formulário. Utilização de HTML e CSS.
+
+🔹 [**Modelagem de dados e Implantação**](https://github.com/MarianaVarandas/ProjetoBD_MySQL) 
+Projeto acadêmico com modelo entidade-relacionamento, implantação de banco de dados e consultas usando MySQL.
+
+🔹 [**Acompanhe meu desenvolvimento**](https://github.com/MarianaVarandas/PortfolioExercicios) 
+Todos os dias estudo e amplio meu conhecimento em programação. 
 Costumo atualizar o meu repositório de exercícios diariamente e te convido a acompanhar meu crescimento :)
 
 
