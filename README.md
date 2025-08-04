@@ -3,7 +3,7 @@
 🚀 Estudante de **Análise e Desenvolvimento de Sistemas** | 🎯 Em transição de carreira de **Música** para **Desenvolvimento de Software**  
 
 ## 👩‍💻 Sobre mim  
-Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 31 anos e me encantando a cada passo. Atualmente, curso Análise e Desenvolvimento de Sistemas com previsão de conclusão em julho de 2027. Além do estudo formal de graduação, tenho focado meus estudos paralelos em desenvolvimento backend e análise de dados, já tendo alguma familiaridade em nível iniciante com linguagens Java e Python, além de versionamento (Git SCM | Github), MySQL e Linux (Ubuntu). 
+Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 31 anos e me encantando a cada passo. Atualmente, curso Análise e Desenvolvimento de Sistemas com previsão de conclusão em julho de 2027. Além do estudo formal de graduação, tenho focado meus estudos paralelos em desenvolvimento backend e análise de dados, já tendo alguma familiaridade em nível iniciante com linguagens JavaScript e Python, além de versionamento (Git SCM | Github), MySQL e Linux (Ubuntu). 
 
 Como autista, superdotada e autodidata, aprendo rapidamente e tendo a ser muito disciplinada e dedicada nas tarefas às quais me proponho. Meu objetivo na tecnologia é contribuir para a criação de soluções que estimulem autonomia, bem-estar e que permitam um manejo saudável do tempo e da energia de pessoas e organizações. 
 
@@ -15,7 +15,9 @@ Como autista, superdotada e autodidata, aprendo rapidamente e tendo a ser muito 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Portugol](https://img.shields.io/badge/Portugol-008F5D?style=for-the-badge&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
