@@ -24,6 +24,10 @@ Como autista, superdotada e autodidata, aprendo rapidamente e tendo a ser muito 
 
 ## 📌 Portfolio
 
+🔹 [**SOS Fala, Autista!**](https://github.com/MarianaVarandas/Projeto_SOS_falaAutista)  
+Projeto autoral com finalidade social voltado para autistas em crise ou sobrecarga. Utiliza botões com mensagens visuais e faladas para facilitar a comunicação em momentos críticos.  
+Tecnologias: HTML, CSS, JavaScript, localStorage, responsiveVoice.js.
+
 🔹 [**Desenvolvimento WEB**](https://github.com/MarianaVarandas/ProjetoWeb_SitePessoal) 
 Projeto acadêmico de construção de site com menu, links e formulário. Utilização de HTML e CSS.
 
