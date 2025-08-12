@@ -3,9 +3,9 @@
 🚀 Estudante de **Análise e Desenvolvimento de Sistemas** | 🎯 Em transição de carreira de **Música** para **Tecnologia**  
 
 ## 👩‍💻 Sobre mim  
-Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 31 anos e me encantando a cada passo. Atualmente, curso Análise e Desenvolvimento de Sistemas com previsão de conclusão em julho de 2027. Além do estudo formal de graduação, tenho focado meus estudos paralelos em desenvolvimento backend e análise de dados, já tendo alguma familiaridade em nível iniciante com linguagens JavaScript e Python, além de versionamento (Git SCM | Github), MySQL e Linux (Ubuntu). 
+Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 31 anos e me encantando a cada passo. Atualmente, curso Análise e Desenvolvimento de Sistemas com previsão de conclusão em julho de 2027. Além do estudo formal de graduação, tenho focado meus estudos paralelos em desenvolvimento e análise de dados, já tendo alguma familiaridade em nível iniciante com linguagens JavaScript e Python, além de versionamento (Git|Github), MySQL e Linux (Ubuntu). 
 
-Como autista, superdotada e autodidata, aprendo rapidamente e tendo a ser muito disciplinada e dedicada nas tarefas às quais me proponho. Meu objetivo na tecnologia é contribuir para a criação de soluções que estimulem autonomia, bem-estar e que permitam um manejo saudável do tempo e da energia de pessoas e organizações. 
+Como autista e autodidata, aprendo rapidamente e tendo a ser muito disciplinada e dedicada nas tarefas às quais me proponho. Meu objetivo na tecnologia é contribuir para a criação de soluções que estimulem autonomia, bem-estar e que permitam um manejo saudável do tempo e da energia de pessoas e organizações. 
 
 📍 Estou à procura de oportunidades profissionais
 
