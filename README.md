@@ -28,14 +28,18 @@ Como autista e autodidata, aprendo rapidamente e tendo a ser muito disciplinada 
 Projeto autoral com finalidade social voltado para autistas em crise ou sobrecarga. Utiliza botões com mensagens visuais e faladas para facilitar a comunicação em momentos críticos.  
 Tecnologias: HTML, CSS, JavaScript, localStorage, responsiveVoice.js.
 
-🔹 [**Desenvolvimento WEB**](https://github.com/MarianaVarandas/ProjetoWeb_SitePessoal) 
+🔹 [**Guia de Estudos HackerRank**](https://github.com/MarianaVarandas/guia-estudos-hackerrank)  
+Apostila autoral com 24 capítulos de lógica de programação e estruturas de dados, criada para me preparar para testes técnicos em estágios de Engenharia de Software.  
+Além da apostila em PDF, o repositório contém também **minhas respostas aos exercícios**, commitadas conforme avanço nos estudos.  
+
+🔹 [**Desenvolvimento WEB**](https://github.com/MarianaVarandas/ProjetoWeb_SitePessoal)  
 Projeto acadêmico de construção de site com menu, links e formulário. Utilização de HTML e CSS.
 
-🔹 [**Modelagem de dados e Implantação**](https://github.com/MarianaVarandas/ProjetoBD_MySQL) 
+🔹 [**Modelagem de dados e Implantação**](https://github.com/MarianaVarandas/ProjetoBD_MySQL)  
 Projeto acadêmico com modelo entidade-relacionamento, implantação de banco de dados e consultas usando MySQL.
 
-🔹 [**Acompanhe meu desenvolvimento**](https://github.com/MarianaVarandas/PortfolioExercicios) 
-Todos os dias estudo e amplio meu conhecimento em programação. 
+🔹 [**Acompanhe meu desenvolvimento**](https://github.com/MarianaVarandas/PortfolioExercicios)  
+Todos os dias estudo e amplio meu conhecimento em programação.  
 Costumo atualizar o meu repositório de exercícios diariamente e te convido a acompanhar meu crescimento :)
 
 
