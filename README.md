@@ -3,11 +3,12 @@
 🚀 Estudante de **Análise e Desenvolvimento de Sistemas** | 🎯 Em transição de carreira de **Música** para **Tecnologia**  
 
 ## 👩‍💻 Sobre mim  
-Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 31 anos e me encantando a cada passo. Atualmente, curso Análise e Desenvolvimento de Sistemas com previsão de conclusão em julho de 2027. Além do estudo formal de graduação, tenho focado meus estudos paralelos em desenvolvimento e análise de dados, já tendo alguma familiaridade em nível iniciante com linguagens JavaScript e Python, além de versionamento (Git|Github), MySQL e Linux (Ubuntu). 
+Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 32 anos e me encantando a cada passo. Atualmente, curso Análise e Desenvolvimento de Sistemas com previsão de conclusão em julho de 2027. Além do estudo formal de graduação, tenho focado meus estudos paralelos em desenvolvimento e análise de dados, já tendo alguma familiaridade em nível iniciante com linguagens JavaScript, Pythone Java, além de versionamento (Git|Github), MySQL e Linux (Ubuntu). 
 
 Como autista e autodidata, aprendo rapidamente e tendo a ser muito disciplinada e dedicada nas tarefas às quais me proponho. Meu objetivo na tecnologia é contribuir para a criação de soluções que estimulem autonomia, bem-estar e que permitam um manejo saudável do tempo e da energia de pessoas e organizações. 
 
 📍 Estou à procura de oportunidades profissionais
+Atualmente contemplada com bolsa de estudos no programa Oracle Next Foudation (ONE), fase Tech Foundation - Especialização Backend Java, com previsão de finalização em Março/2026.
 
 ---
 
@@ -19,7 +20,7 @@ Como autista e autodidata, aprendo rapidamente e tendo a ser muito disciplinada 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Portugol](https://img.shields.io/badge/Portugol-008F5D?style=for-the-badge&logoColor=white)
+
 ---
 
 ## 📌 Portfolio
