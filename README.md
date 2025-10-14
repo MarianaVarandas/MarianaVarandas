@@ -7,7 +7,8 @@ Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 32
 
 Como autista e autodidata, aprendo rapidamente e tendo a ser muito disciplinada e dedicada nas tarefas às quais me proponho. Meu objetivo na tecnologia é contribuir para a criação de soluções que estimulem autonomia, bem-estar e que permitam um manejo saudável do tempo e da energia de pessoas e organizações. 
 
-📍 Estou à procura de oportunidades profissionais
+📍 Estou à procura de oportunidades profissionais.
+
 Atualmente contemplada com bolsa de estudos no programa Oracle Next Foudation (ONE), fase Tech Foundation - Especialização Backend Java, com previsão de finalização em Março/2026.
 
 ---
