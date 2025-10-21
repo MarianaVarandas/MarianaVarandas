@@ -30,6 +30,9 @@ Atualmente contemplada com bolsa de estudos no programa Oracle Next Foudation (O
 Projeto autoral com finalidade social voltado para autistas em crise ou sobrecarga. Utiliza botões com mensagens visuais e faladas para facilitar a comunicação em momentos críticos.  
 Tecnologias: HTML, CSS, JavaScript, localStorage, responsiveVoice.js.
 
+🔹 [**Primeiro projeto JAVA**](https://github.com/MarianaVarandas/ProjetoJAVA_simulacaoExtrato)  
+Atualmente estudo Java17 dentro do programa Oracle Next Foundation. Este é o meu primeiro código na linguagem e, apesar de simples, ilustra minhas habilidades até aqui :)
+
 🔹 [**Guia de Estudos HackerRank**](https://github.com/MarianaVarandas/guia-estudos-hackerrank)  
 Apostila autoral com 24 capítulos de lógica de programação e estruturas de dados, criada para me preparar para testes técnicos em estágios de Engenharia de Software.  
 Além da apostila em PDF, o repositório contém também **minhas respostas aos exercícios**, commitadas conforme avanço nos estudos.  
