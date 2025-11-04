@@ -15,10 +15,10 @@ Atualmente contemplada com bolsa de estudos no programa Oracle Next Foudation (O
 
 ## 🛠️ Tecnologias & Ferramentas  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -29,6 +29,9 @@ Atualmente contemplada com bolsa de estudos no programa Oracle Next Foudation (O
 🔹 [**SOS Fala, Autista!**](https://github.com/MarianaVarandas/Projeto_SOS_falaAutista)  
 Projeto autoral com finalidade social voltado para autistas em crise ou sobrecarga. Utiliza botões com mensagens visuais e faladas para facilitar a comunicação em momentos críticos.  
 Tecnologias: HTML, CSS, JavaScript, localStorage, responsiveVoice.js.
+
+🔹 [**Minhas Músicas (Desafio Java - POO)**](https://github.com/MarianaVarandas/DesafioAplicacaoJava)  
+Projeto de console em Java que aplica os pilares da Programação Orientada a Objetos (Herança, Polimorfismo e Sobrescrita) para simular o backend de uma plataforma de áudio (Músicas e Podcasts).
 
 🔹 [**Primeiros exercícios JAVA**](https://github.com/MarianaVarandas/PortfolioExercicios/tree/main/Estudo%20Java%20-%20(mar_2025%2C%20out2025))  
 Atualmente curso uma Especialização em Back-end Java dentro do programa Oracle Next Foundation. Estes são meus primeiros códigos na linguagem e, apesar de simples, ilustram minhas habilidades até aqui :)
