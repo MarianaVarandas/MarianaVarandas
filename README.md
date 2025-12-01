@@ -8,6 +8,7 @@ Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 32
 Aprendo rapidamente e tendo a ser muito disciplinada e dedicada nas tarefas às quais me proponho. Meu objetivo na tecnologia é contribuir para a criação de soluções que estimulem autonomia, bem-estar e que permitam um manejo saudável do tempo e da energia de pessoas e organizações. 
 
 📍 Estou à procura de oportunidades profissionais.
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
@@ -24,7 +25,7 @@ Aprendo rapidamente e tendo a ser muito disciplinada e dedicada nas tarefas às 
 ## 📌 Portfolio
 
 🔹 [**Projetos em Java**](https://github.com/MarianaVarandas/ProjetosJava)
-Projetos de finalização de curso durante minha formação Tech Foundation - Especialização Backend Java mediada pela Oracle Next Education.
+Projetos de finalização de cursos feitos durante minha formação Tech Foundation - Especialização Backend Java mediada pela Oracle Next Education. Esta formação dura aproximadamente 8 meses (até março/2026) e conta com 349 horas de aula. Convido você a acompanhar meu avanço pelos próximos meses!
 
 🔹 [**SOS Fala, Autista!**](https://github.com/MarianaVarandas/Projeto_SOS_falaAutista)  
 Projeto autoral com finalidade social voltado para autistas em crise ou sobrecarga. Utiliza botões com mensagens visuais e faladas para facilitar a comunicação em momentos críticos.  
