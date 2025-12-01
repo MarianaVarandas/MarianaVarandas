@@ -24,7 +24,7 @@ Aprendo rapidamente e tendo a ser muito disciplinada e dedicada nas tarefas às 
 
 ## 📌 Portfolio
 
-🔹 [**Projetos em Java**](https://github.com/MarianaVarandas/ProjetosJava)
+🔹 [**Projetos em Java**](https://github.com/MarianaVarandas/ProjetosJava)  
 Projetos de finalização de cursos feitos durante minha formação Tech Foundation - Especialização Backend Java mediada pela Oracle Next Education. Esta formação dura aproximadamente 8 meses (até março/2026) e conta com 349 horas de aula. Convido você a acompanhar meu avanço pelos próximos meses!
 
 🔹 [**SOS Fala, Autista!**](https://github.com/MarianaVarandas/Projeto_SOS_falaAutista)  
