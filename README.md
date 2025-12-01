@@ -31,9 +31,6 @@ Projetos de finalização de cursos feitos durante minha formação Tech Foundat
 Projeto autoral com finalidade social voltado para autistas em crise ou sobrecarga. Utiliza botões com mensagens visuais e faladas para facilitar a comunicação em momentos críticos.  
 Tecnologias: HTML, CSS, JavaScript, localStorage, responsiveVoice.js.
 
-🔹 [**Desenvolvimento WEB**](https://github.com/MarianaVarandas/ProjetoWeb_SitePessoal)  
-Projeto acadêmico de construção de site com menu, links e formulário. Utilização de HTML e CSS.
-
 🔹 [**Modelagem de dados e Implantação**](https://github.com/MarianaVarandas/ProjetoBD_MySQL)  
 Projeto acadêmico com modelo entidade-relacionamento, implantação de banco de dados e consultas usando MySQL.
 
