@@ -3,14 +3,11 @@
 🚀 Estudante de **Análise e Desenvolvimento de Sistemas** | 🎯 Em transição de carreira de **Música** para **Tecnologia**  
 
 ## 👩‍💻 Sobre mim  
-Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 32 anos e me encantando a cada passo. Atualmente, curso Análise e Desenvolvimento de Sistemas com previsão de conclusão em julho de 2027. Além do estudo formal de graduação, tenho focado meus estudos paralelos em desenvolvimento e análise de dados, já tendo alguma familiaridade em nível iniciante com linguagens JavaScript, Pythone Java, além de versionamento (Git|Github), MySQL e Linux (Ubuntu). 
+Sou uma desenvolvedora em formação, reiniciando um caminho profissional aos 32 anos e me encantando a cada passo. Atualmente, curso Análise e Desenvolvimento de Sistemas com previsão de conclusão em dezembro de 2027 e, também, me especializo em desenvolvimento backend Java através do programa Oracle Next Education.
 
-Como autista e autodidata, aprendo rapidamente e tendo a ser muito disciplinada e dedicada nas tarefas às quais me proponho. Meu objetivo na tecnologia é contribuir para a criação de soluções que estimulem autonomia, bem-estar e que permitam um manejo saudável do tempo e da energia de pessoas e organizações. 
+Aprendo rapidamente e tendo a ser muito disciplinada e dedicada nas tarefas às quais me proponho. Meu objetivo na tecnologia é contribuir para a criação de soluções que estimulem autonomia, bem-estar e que permitam um manejo saudável do tempo e da energia de pessoas e organizações. 
 
 📍 Estou à procura de oportunidades profissionais.
-
-Atualmente contemplada com bolsa de estudos no programa Oracle Next Foudation (ONE), fase Tech Foundation - Especialização Backend Java, com previsão de finalização em Março/2026.
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
@@ -26,29 +23,18 @@ Atualmente contemplada com bolsa de estudos no programa Oracle Next Foudation (O
 
 ## 📌 Portfolio
 
+🔹 [**Projetos em Java**](https://github.com/MarianaVarandas/ProjetosJava)
+Projetos de finalização de curso durante minha formação Tech Foundation - Especialização Backend Java mediada pela Oracle Next Education.
+
 🔹 [**SOS Fala, Autista!**](https://github.com/MarianaVarandas/Projeto_SOS_falaAutista)  
 Projeto autoral com finalidade social voltado para autistas em crise ou sobrecarga. Utiliza botões com mensagens visuais e faladas para facilitar a comunicação em momentos críticos.  
 Tecnologias: HTML, CSS, JavaScript, localStorage, responsiveVoice.js.
-
-🔹 [**Minhas Músicas (Desafio Java - POO)**](https://github.com/MarianaVarandas/DesafioAplicacaoJava)  
-Projeto de console em Java que aplica os pilares da Programação Orientada a Objetos (Herança, Polimorfismo e Sobrescrita) para simular o backend de uma plataforma de áudio (Músicas e Podcasts).
-
-🔹 [**Primeiros exercícios JAVA**](https://github.com/MarianaVarandas/PortfolioExercicios/tree/main/Estudo%20Java%20-%20(mar_2025%2C%20out2025))  
-Atualmente curso uma Especialização em Back-end Java dentro do programa Oracle Next Foundation. Estes são meus primeiros códigos na linguagem e, apesar de simples, ilustram minhas habilidades até aqui :)
-
-🔹 [**Guia de Estudos HackerRank**](https://github.com/MarianaVarandas/guia-estudos-hackerrank)  
-Apostila autoral com 24 capítulos de lógica de programação e estruturas de dados, criada para me preparar para testes técnicos em estágios de Engenharia de Software.  
-Além da apostila em PDF, o repositório contém também **minhas respostas aos exercícios**, commitadas conforme avanço nos estudos.  
 
 🔹 [**Desenvolvimento WEB**](https://github.com/MarianaVarandas/ProjetoWeb_SitePessoal)  
 Projeto acadêmico de construção de site com menu, links e formulário. Utilização de HTML e CSS.
 
 🔹 [**Modelagem de dados e Implantação**](https://github.com/MarianaVarandas/ProjetoBD_MySQL)  
 Projeto acadêmico com modelo entidade-relacionamento, implantação de banco de dados e consultas usando MySQL.
-
-🔹 [**Acompanhe meu desenvolvimento**](https://github.com/MarianaVarandas/PortfolioExercicios)  
-Todos os dias estudo e amplio meu conhecimento em programação.  
-Costumo atualizar o meu repositório de exercícios diariamente e te convido a acompanhar meu crescimento :)
 
 
 ## 📫 Contato  
