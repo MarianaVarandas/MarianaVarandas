@@ -27,7 +27,7 @@ Aprendo rapidamente e tendo a ser muito disciplinada e dedicada nas tarefas às 
 🔹 [**Projetos em Java**](https://github.com/MarianaVarandas/ProjetosJava)
 Acompanhe minha evolução na formação Tech Foundation - Especialização Backend Java (Oracle Next Education). Atualmente cursando "Java: persistência de dados e consultas com Spring Data JPA".
 
-🚀 **Destaque Recente:** [Buscador de Preços FIPE](https://github.com/MarianaVarandas/ProjetosJava/tree/main/Consulta%20de%20Pre%C3%A7os%20Tabela%20FIPE%20API/fipeApi/src) > Neste desafio, configurei dependências no **Maven** (`pom.xml`) pela primeira vez e utilizei **Spring Boot**, **Jackson** e **Java Streams** para buscar, filtrar e exibir dados complexos de veículos.
+**Destaque Recente:** [Buscador de Preços FIPE](https://github.com/MarianaVarandas/ProjetosJava/tree/main/Consulta%20de%20Pre%C3%A7os%20Tabela%20FIPE%20API/fipeApi/src) > Neste desafio, configurei dependências no **Maven** (`pom.xml`) pela primeira vez e utilizei **Spring Boot**, **Jackson** e **Java Streams** para buscar, filtrar e exibir dados complexos de veículos.
 
 🔹 [**SOS Fala, Autista!**](https://github.com/MarianaVarandas/ProjetosWeb/tree/main/Projeto_SOS_falaAutista)  
 Projeto autoral com finalidade social voltado para autistas em crise ou sobrecarga. Utiliza botões com mensagens visuais e faladas para facilitar a comunicação em momentos críticos.  
